@@ -1,7 +1,7 @@
 pdf_preprocess_and_ocr
 ======================
 
-Preprocesses and performs OCR on a PDF that contains no text streams (e.g. a PDF created from a scanned document)
+Preprocesses and performs OCR on a batch of PDFs that contain no text streams (e.g. PDFs created from scanned documents)
 
 Requirements:
  - Windows NT or later
